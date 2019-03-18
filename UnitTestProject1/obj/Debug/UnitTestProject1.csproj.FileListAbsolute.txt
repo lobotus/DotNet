@@ -1,0 +1,17 @@
+D:\NET_Sample\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\NET_Sample\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\NET_Sample\UnitTestProject1\bin\Debug\ViewEnvironment.dll
+D:\NET_Sample\UnitTestProject1\bin\Debug\ViewEnvironment.pdb
+D:\NET_Sample\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\NET_Sample\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\NET_Sample\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\NET_Sample\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+D:\NET_Sample\UnitTestProject1\bin\Debug\System.Net.Http.Formatting.dll
+D:\NET_Sample\UnitTestProject1\bin\Debug\System.Web.Http.dll
+D:\NET_Sample\UnitTestProject1\bin\Debug\ViewEnvironment.dll.config
+D:\NET_Sample\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+D:\NET_Sample\UnitTestProject1\bin\Debug\System.Net.Http.Formatting.xml
+D:\NET_Sample\UnitTestProject1\bin\Debug\System.Web.Http.xml
+D:\NET_Sample\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\NET_Sample\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\NET_Sample\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete

@@ -1,0 +1,19 @@
+C:\Program Files (x86)\Jenkins\workspace\NET_Sample\ViewEnvironment\bin\ViewEnvironment.dll
+C:\Program Files (x86)\Jenkins\workspace\NET_Sample\ViewEnvironment\bin\ViewEnvironment.pdb
+C:\Program Files (x86)\Jenkins\workspace\NET_Sample\ViewEnvironment\obj\Debug\ViewEnvironment.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Jenkins\workspace\NET_Sample\ViewEnvironment\obj\Debug\ViewEnvironment.dll
+C:\Program Files (x86)\Jenkins\workspace\NET_Sample\ViewEnvironment\obj\Debug\ViewEnvironment.pdb
+D:\NET_Sample\ViewEnvironment\bin\ViewEnvironment.dll
+D:\NET_Sample\ViewEnvironment\bin\ViewEnvironment.pdb
+D:\NET_Sample\ViewEnvironment\obj\Debug\ViewEnvironment.dll
+D:\NET_Sample\ViewEnvironment\obj\Debug\ViewEnvironment.pdb
+D:\NET_Sample\ViewEnvironment\bin\ViewEnvironment.dll.config
+D:\NET_Sample\ViewEnvironment\bin\Newtonsoft.Json.dll
+D:\NET_Sample\ViewEnvironment\bin\System.Net.Http.Formatting.dll
+D:\NET_Sample\ViewEnvironment\bin\System.Web.Http.dll
+D:\NET_Sample\ViewEnvironment\bin\Newtonsoft.Json.xml
+D:\NET_Sample\ViewEnvironment\bin\System.Net.Http.Formatting.xml
+D:\NET_Sample\ViewEnvironment\bin\System.Web.Http.xml
+D:\NET_Sample\ViewEnvironment\obj\Debug\ViewEnvironment.csprojAssemblyReference.cache
+D:\NET_Sample\ViewEnvironment\obj\Debug\ViewEnvironment.csproj.CoreCompileInputs.cache
+D:\NET_Sample\ViewEnvironment\obj\Debug\ViewEnvironment.csproj.CopyComplete
