@@ -121,6 +121,7 @@
       <SubType>ASPXCodeBehind</SubType>
     </Content>
     <Content Include="Global.asax" />
+    <Content Include="HtmlPage111111.html" />
     <Content Include="img\delete.jpeg" />
     <Content Include="img\image.jpg" />
     <Content Include="js\foundation.min.js" />
